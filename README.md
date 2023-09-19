@@ -1,7 +1,5 @@
 Computational optimal transport and its applications in Machine learning.
 
-![](_figures/euclidian_space.gif)
-
 ## Discrete optimal transport
 
 - Optimal transport between gaussians
