@@ -28,7 +28,7 @@ Computational optimal transport and its applications in Machine learning.
 ## Gradient flows
 
 ## Learning theory
-- Optimal transport as a statistical learning theory problem
+- Optimal transport as a statistical learning problem
 
 ## Applications
 
