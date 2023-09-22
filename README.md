@@ -1,4 +1,6 @@
-Computational optimal transport and its applications in Machine learning.
+# Computational optimal transport
+
+![](_figures/euclidian_space.gif)
 
 ## Discrete optimal transport
 
