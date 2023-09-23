@@ -29,7 +29,7 @@
 
 ## Gradient flows
 
-## Learning theory
+## Statistical learning
 - Optimal transport as a statistical learning problem
 
 ## Applications
