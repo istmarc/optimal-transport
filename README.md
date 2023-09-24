@@ -4,21 +4,21 @@
 
 ## Discrete optimal transport
 
-- Optimal transport between gaussians
-- Linear program
-- Minimum cost bipartite matching
-- Relaxing the Monge formulation
-- Shinkorn algorithm
-- Birkhoff-Von Neuman decomposition
-- Euclidian space
-- Grayscale histogram equalization
+- [x] Optimal transport between gaussians
+- [x] Linear program
+- [x] Minimum cost bipartite matching
+- [x] Relaxing the Monge formulation
+- [x] Sinkhorn algorithm
+- [x] Birkhoff-Von Neuman decomposition
+- [x] Euclidian space
+- [x] Grayscale histogram equalization
 
 ## Semi-discrete optimal transport
-- Projective gradient ascent
-- Nesterov smoothing
+- [x] Projective gradient ascent
+- [x] Nesterov smoothing
 
 ## Wasserstein
-- Wasserstein distance
+- [x] Wasserstein distance
 - [] Approximate wasserstein distance
 - [] Sliced wasserstein
 
@@ -30,14 +30,10 @@
 ## Gradient flows
 
 ## Statistical learning
-- Optimal transport as a statistical learning problem
+- [x] Optimal transport as a statistical learning problem
 
 ## Applications
-
-- [] Density estimation
-	- Background density estimation
-	- Density estimation with continuous normalizing flows
+- [] Background density estimation
+- [] Density estimation with continuous normalizing flows
 - [] Classification
-- [] Generative models
-	- Wasserstein Generative Adverserial Network
-
+- [] Wasserstein Generative Adverserial Network
