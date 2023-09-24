@@ -5,9 +5,11 @@
 ## Discrete optimal transport
 
 - Optimal transport between gaussians
+- Linear program
 - Minimum cost bipartite matching
 - Relaxing the Monge formulation
-- Linear program
+- Shinkorn algorithm
+- Birkhoff-Von Neuman decomposition
 - Euclidian space
 - Grayscale histogram equalization
 
@@ -22,8 +24,6 @@
 
 ## Regularization
 - [] Entropic regularization
-- [] Shinkorn algorithm
-- [] Birkhoff-Von Neuman decomposition
 
 ## Unbalanced optimal transport
 
