@@ -28,8 +28,6 @@
 
 ## Unbalanced optimal transport
 
-## Gradient flows
-
 ## Statistical learning
 - [x] Optimal transport as a statistical learning problem
 
