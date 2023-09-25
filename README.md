@@ -12,7 +12,7 @@
 - [x] Birkhoff-Von Neuman decomposition
 - [x] Euclidian space
 - [x] Grayscale histogram equalization
-- [x] Image colour transfert
+- [x] Image colour transfer
 
 ## Semi-discrete optimal transport
 - [x] Projective gradient ascent
