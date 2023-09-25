@@ -33,6 +33,15 @@
 ## Statistical learning
 - [x] Optimal transport as a statistical learning problem
 
+## PDEs
+- [] Gradient flows
+- [] Linear diffusion equation
+- [] Non-linear diffusion equation
+- [] Mean field limits
+- [] Functional inequalities
+- [] Geometric inequalities
+- [] Ricci curvature
+
 ## Applications
 - [] Background density estimation
 - [] Density estimation with continuous normalizing flows
