@@ -28,8 +28,12 @@
 
 ## Unbalanced optimal transport
 
-## Statistical learning
+## Statistical learning and ML
 - [x] Optimal transport as a statistical learning problem
+- [] Background density estimation
+- [] Density estimation with continuous normalizing flows
+- [] Classification
+- [] Wasserstein Generative Adverserial Network
 
 ## PDEs
 - [] Gradient flows
@@ -40,8 +44,3 @@
 - [] Geometric inequalities
 - [] Ricci curvature
 
-## Applications
-- [] Background density estimation
-- [] Density estimation with continuous normalizing flows
-- [] Classification
-- [] Wasserstein Generative Adverserial Network
