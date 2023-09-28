@@ -26,7 +26,7 @@
 - [] Sliced wasserstein
 
 ## Regularization
-- [] Entropic regularization
+- [x] Entropic regularization
 
 ## Unbalanced optimal transport
 
