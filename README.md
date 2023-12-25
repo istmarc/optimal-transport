@@ -21,7 +21,7 @@
 ## Wasserstein
 - [x] Wasserstein distance
 - [x] Bipartite graph formulation
-- [] Hungarian algorithm
+- [x] Hungarian algorithm
 - [] Approximate wasserstein distance
 - [] Sliced wasserstein
 
