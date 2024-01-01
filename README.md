@@ -17,6 +17,9 @@
 - [Projective gradient ascent](semi-discrete/Gradient%20ascent.ipynb)
 - [Nesterov smoothing](semi-discrete/Nesterov%20smoothing.ipynb)
 
+## Continuous optimal transport
+- [Continuous optimal transport between gaussians](continuous/Continuous%20optimal%20transport%20between%20gaussians.ipynb)
+
 ## Wasserstein
 - [Wasserstein distance (Bipartite graph formulation and Hungarian algorithm)](wasserstein/Wasserstein%20distance.ipynb)
 - [] Approximate wasserstein distance
