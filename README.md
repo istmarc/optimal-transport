@@ -22,6 +22,7 @@
 
 ## Wasserstein
 - [Wasserstein distance (Bipartite graph formulation and Hungarian algorithm)](wasserstein/Wasserstein%20distance.ipynb)
+- [Morphing images](wasserstein/Morphing%20images.ipynb)
 - [] Approximate wasserstein distance
 - [] Sliced wasserstein
 
