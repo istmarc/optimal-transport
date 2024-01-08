@@ -22,9 +22,7 @@
 
 ## Wasserstein
 - [Wasserstein distance (Bipartite graph formulation and Hungarian algorithm)](wasserstein/Wasserstein%20distance.ipynb)
-- [Morphing images](wasserstein/Morphing%20images.ipynb)
-- [] Approximate wasserstein distance
-- [] Sliced wasserstein
+- [Wasserstein geodesic and barycenter](wasserstein/Wasserstein%20geodesic%20and%20barycenter.ipynb)
 
 ## Regularization
 - [Entropic regularization](regularization/Entropic%20regularization.ipynb)
